@@ -2,10 +2,7 @@
     "version":"1.0.0",
     "model":"model.moc",
     "textures":[
-        "textures/pajamas-costume.png",
-        "textures/Animal Costume Racoon.png",
-        "textures/Akiba Idol Costume.png",
-        "textures/Goddess Costume Pink.png"
+        "textures/pajamas-costume.png"
     ],
     "layout":{
         "center_x":0.0,
