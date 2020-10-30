@@ -2,7 +2,7 @@
     "version":"1.0.0",
     "model":"model.moc",
     "textures":[
-        "textures/Goddess Costume White.png"
+        "textures/Goddess-Costume-White.png"
     ],
     "layout":{
         "center_x":0.0,
